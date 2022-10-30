@@ -1,0 +1,1 @@
+C:\Users\telol\OneDrive\Documents\O.olasojiCSC101\week-3\project_7\ (number\ seprator\ example)\target\debug\project_7.exe: C:\Users\telol\OneDrive\Documents\O.olasojiCSC101\week-3\project_7\ (number\ seprator\ example)\src\main.rs
